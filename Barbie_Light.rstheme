@@ -14,7 +14,7 @@
 
 .ace_editor, .ace_editor_theme .profvis-flamegraph, .ace_editor_theme {
   background-color: rgba(255, 214, 250, 0.45);
-  color: #4A0099;
+  color: #8c1964;
 }
 
 .ace_cursor {
@@ -63,14 +63,14 @@
 
 .ace_keyword {
   font-weight: bold;
-  color: #FC006D;
+  color: #5c0128;
   background-color: rgba(255, 212, 212, 0.00);
 
 }
 
 .ace_keyword.ace_operator {
   font-weight: bold;
-  color: #00B5FC;
+  color: #020f6e;
 
 }
 
