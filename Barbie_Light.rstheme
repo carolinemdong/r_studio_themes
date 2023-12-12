@@ -4,7 +4,7 @@
 
 .ace_gutter {
   background: rgba(255, 214, 250, 0.45);
-  color: #A56BCA;
+  color: #8c1964;
 }
 
 .ace_print-margin {
